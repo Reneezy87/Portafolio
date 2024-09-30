@@ -1918,7 +1918,7 @@ section {
 
 .frontside .card,
 .backside .card {
-    min-height: 312px;
+    height: 400px;
 }
 
 .backside .card a {
