@@ -1852,6 +1852,7 @@ section {
     -ms-transform: rotateY(0deg);
     transform: rotateY(0deg);
     border-radius: .25rem;
+    min-width: 400px;
 }
 
 .image-flip:hover .frontside,
@@ -2067,7 +2068,7 @@ section {
 .timeline-badge > img{
   display: inline-block;
  
-  width: 65px;
+  width: 100px;
   height: 65px;
   
   border-radius: 50%;
